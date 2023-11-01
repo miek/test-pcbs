@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SYZYGY")(type "KiCad")(uri "${KIPRJMOD}/../lib/SYZYGY.pretty")(options "")(descr ""))
+)

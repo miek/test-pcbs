@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SYZYGY")(type "Legacy")(uri "${KIPRJMOD}/../lib/SYZYGY.lib")(options "")(descr ""))
+  (lib (name "SZG-TEMPLATE-TXR")(type "KiCad")(uri "${KIPRJMOD}/SZG-TEMPLATE-TXR.kicad_sym")(options "")(descr ""))
+)
